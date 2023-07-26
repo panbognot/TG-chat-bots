@@ -1,3 +1,4 @@
 # Don't commit the following to github
 .venv
 *.pyc
+__pycache__
